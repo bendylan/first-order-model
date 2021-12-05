@@ -1,7 +1,7 @@
 imageio==2.3.0
 matplotlib==2.2.2
 numpy>=1.17.0
-panda>=1.0.4
+pandas>=1.0.4
 python-dateutil==2.7.3
 pytz==2018.5
 PyYAML==5.1
